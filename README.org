@@ -4,6 +4,6 @@ Web forms handling library for Common lisp
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/mmontone/cl-forms.git |
-| commit  | 64266a8                                      |
+| commit  | 5ea0d12                                      |
 | systems | cl-forms                                     |
 |---------+----------------------------------------------|
